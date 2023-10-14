@@ -1,7 +1,0 @@
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\obj\Debug\Задание 1.csproj.AssemblyReference.cache
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\bin\Debug\ЛР 9.exe.config
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\bin\Debug\ЛР 9.exe
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\bin\Debug\ЛР 9.pdb
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\obj\Debug\ЛР 9.exe
-C:\Users\XL\Documents\ПЗТ-38\Конструирование программ и ЯП (Павел Станиславович)\code\ЛР 9\ЛР 9\obj\Debug\ЛР 9.pdb
