@@ -10,6 +10,16 @@ namespace ЛР_9
 	{
 		private int first; // Номинал купюры
 		private int second; // Количество купюр
+		//
+		//
+		//
+		//
+		//
+		/// <summary>
+		/// /
+		/// </summary>
+		/// <param name="nominal"></param>
+		/// <param name="count"></param>
 
 		// Конструктор для создания экземпляра класса с заданными значениями полей
 		public Money(int nominal, int count)
