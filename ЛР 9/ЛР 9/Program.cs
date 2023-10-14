@@ -20,6 +20,7 @@ namespace ЛР_9
 		/// </summary>
 		/// <param name="nominal"></param>
 		/// <param name="count"></param>
+		/// //еще изменения чтобы были
 
 		// Конструктор для создания экземпляра класса с заданными значениями полей
 		public Money(int nominal, int count)
