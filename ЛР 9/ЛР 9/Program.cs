@@ -14,7 +14,7 @@ namespace ЛР_9
 		//
 		//
 		//
-		//
+		// pul request
 		/// <summary>
 		/// /
 		/// </summary>
